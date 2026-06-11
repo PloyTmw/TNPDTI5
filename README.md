@@ -1,16 +1,17 @@
 <h1>Data Technology and Innovation</h1>
 
-Data science bootcamp with `adToy`
 
-<h2>We learn 10 sprints during 4 month program.</h2>
 
-<h3>Spreadsheets</h3>
+<h3>1st Semester, 2024</h3>
+<h4>Information Technology Infrastructure</h4>
+<h4>Fundamentals Of Business</h4>
+<h4>Enterprise Information Systems</h4>
 <div>
 <ul>
   <li>
-  <p>Convert TH to EN Date
-  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Spreadsheet/HW_Spreadsheet_Convert%20TH%20to%20EN%20Date.png">
-    HW_Spreadsheet_Convert TH to EN Date
+  <p>HW_Practice SQL Using Oracle XE 11g
+  <a href="https://app.notion.com/p/Practice-SQL-Using-Oracle-XE-11g-10d6abbf000980519588eb90d1313b9a#10d6abbf000980e48753c095a8889e1e">
+    HW_Practice SQL Using Oracle XE 11g
   </a>
   </p>
   </li>
@@ -24,7 +25,11 @@ Data science bootcamp with `adToy`
 <ul>
 </div>
 
-<h3>SQL Database</h3>
+<h3>2nd Semester, 2024</h3>
+<h4>Information System Analysis And Design</h4>
+<h4>Fundamentals Of Data Science And Applied Machine Learning</h4>
+<h4>Text Processing Applications</h4>
+<h4>Selected Topic: Computer Vision</h4>
 <div>
 <ul>
   <li>
@@ -37,9 +42,10 @@ Data science bootcamp with `adToy`
 <ul>
 </div>
 
-### R Programing
-
-<h3>Data Transformation</h3>
+<h3>1st Semester, 2025</h3>
+<h4>Information And Cyber Security</h4>
+<h4>Big Data Engineering</h4>
+<h4>Independent Study 1</h4>
 <div>
 <ul>
   <li>
@@ -52,7 +58,9 @@ Data science bootcamp with `adToy`
 <ul>
 </div>
 
-<h3>Data Visualization</h3>
+<h3>2nd Semester, 2025</h3>
+<h4>Business Intelligence And Data Visualization</h4>
+<h4>Independent Study 2 (Status DROP) </h4>
 <div>
 <ul>
   <li>
@@ -67,8 +75,9 @@ Data science bootcamp with `adToy`
 
 
 ### Statistics
-### Intro to `Classical` Maching Learning
-<h3>Intro to Python</h3>
+
+<h3>1st Semester, 2026</h3>
+<h4>Independent Study 2 (Status Continue) </h4>
 <div>
 <ul>
   <li>
