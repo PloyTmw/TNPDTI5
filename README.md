@@ -22,7 +22,7 @@
   </li>
   <li>
   <p>สรุปวิเคราะห์งบ
-  <a href="https://github.com/PloyTmw/TNPDTI5/blob/main/UPDATE_FINANCIAL_STATEMENTS.XLSX">
+  <a href="https://github.com/PloyTmw/TNPDTI5/blob/main/Fundamentals%20of%20Business/UPDATE_FINANCIAL_STATEMENTS.XLSX">
     สรุปวิเคราะห์งบ
   </a>
   </p>
