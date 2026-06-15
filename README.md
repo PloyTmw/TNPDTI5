@@ -64,6 +64,17 @@
 <h3>2nd Semester, 2024</h3>
 <h4>Information System Analysis And Design</h4>
 ได้เรียนรู้การวิเคราะห์ความต้องการของผู้ใช้งานและการออกแบบระบบสารสนเทศ เช่น Use Case Diagram, System Sequence Diagram, ER Diagram และ Class Diagram ซึ่งช่วยให้สามารถออกแบบระบบหรือกระบวนการทำงานให้สอดคล้องกับความต้องการทางธุรกิจ
+<div>
+<ul>
+  <li>
+  <p>Home Work
+  <a href="https://github.com/PloyTmw/TNPDTI5/blob/main/Selected%20Topic%3A%20Computer%20Vision/Defect%20Detection%20Project.pdf">
+    Home Work
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
 <h4>Fundamentals Of Data Science And Applied Machine Learning</h4>
 ได้เรียนรู้กระบวนการทำ Data Science ตั้งแต่การเตรียมข้อมูล การสำรวจข้อมูล การสร้างโมเดล การประเมินผลโมเดล และพื้นฐาน Machine Learning เช่น Classification และ Prediction ทำให้เข้าใจการนำข้อมูลมาใช้วิเคราะห์และพยากรณ์ผลลัพธ์ทางธุรกิจ
 <h4>Text Processing Applications</h4>
