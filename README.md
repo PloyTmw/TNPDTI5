@@ -68,7 +68,7 @@
 <ul>
   <li>
   <p>Home Work
-  <a href="https://github.com/PloyTmw/TNPDTI5/blob/main/Selected%20Topic%3A%20Computer%20Vision/Defect%20Detection%20Project.pdf">
+  <a href="https://github.com/PloyTmw/TNPDTI5/tree/main/Information%20System%20Analysis%20And%20Design">
     Home Work
   </a>
   </p>
