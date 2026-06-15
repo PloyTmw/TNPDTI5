@@ -22,7 +22,7 @@
   </li>
   <li>
   <p>สรุปวิเคราะห์งบ
-  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Spreadsheet/HW_Spreadsheet_ID%20Card%20Parser.png">
+  <a href="https://github.com/PloyTmw/TNPDTI5/blob/main/UPDATE_FINANCIAL_STATEMENTS.XLSX">
     สรุปวิเคราะห์งบ
   </a>
   </p>
