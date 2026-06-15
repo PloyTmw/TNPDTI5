@@ -87,6 +87,17 @@
 ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูลในกระบวนการวิเคราะห์และจัดการข้อมูล
 <h4>Big Data Engineering</h4>
 ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline, Distributed Processing และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark และแพลตฟอร์มข้อมูลบน Cloud ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
+<div>
+<ul>
+  <li>
+  <p>Lab BigData
+  <a href="https://github.com/PloyTmw/TNPDTI5/tree/main/Big%20Data%20Engineering">
+    Lab BigData
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
 <h4>Independent Study 1</h4>
 ได้ทำการศึกษาอิสระเกี่ยวกับการประยุกต์ใช้ RPA และ Workflow Automation เพื่อดึงข้อมูล งบการเงิน จัดการไฟล์ เตรียมข้อมูล และนำไปสร้าง Dashboard สำหรับการวิเคราะห์ทางการเงิน
 <div>
