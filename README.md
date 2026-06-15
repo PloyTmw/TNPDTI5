@@ -11,6 +11,24 @@
 <p>ได้เรียนรู้พื้นฐานด้านเทคโนโลยีสารสนเทศ เช่น hardware, software, networks (LAN,WAN), databases, cloud computing, และ system architecture  ทำให้เข้าใจภาพรวมของระบบเทคโนโลยีที่รองรับการจัดเก็บ ประมวลผล และใช้งานข้อมูลในองค์กร</p>
 <h3>Fundamentals Of Business</h3>
 <p>ได้เรียนรู้ความรู้พื้นฐานเดี่ยวกับสภาพแวดล้อมทางธุรกิจ ระบบเศรษฐกิจ มูลค่าเงิน วิเคราะห์งบการเงิน กลยุทธ์ทางธุรกิจ ซึ่งช่วยให้สามารถเข้าใจโจทย์ทางธุรกิจก่อนนำข้อมูลมาวิเคราะห์ และสามารถตีความ Insight ให้สอดคล้องกับบริบทขององค์กรได้ </p>
+<div>
+<ul>
+  <li>
+  <p>การบ้าน FOB
+  <a href="https://long-challenge-863.notion.site/FOB-53af54e98ce949979ef5b7f20421170f?source=copy_link">
+    การบ้าน FOB
+  </a>
+  </p>
+  </li>
+  <li>
+  <p>สรุปวิเคราะห์งบ
+  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Spreadsheet/HW_Spreadsheet_ID%20Card%20Parser.png">
+    สรุปวิเคราะห์งบ
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
 <h4>Enterprise Information Systems</h4>
 ได้ศึกษาเกี่ยวกับระบบสารสนเทศระดับองค์กร เช่น ERP, CRM, SCM และการเชื่อมโยงกระบวนการทำงานระหว่างแผนก ทำให้เข้าใจการไหลของข้อมูลในองค์กร และเห็นความสำคัญของข้อมูลที่ถูกต้องต่อการตัดสินใจทางธุรกิจ
 <div>
