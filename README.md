@@ -9,6 +9,17 @@
 <h2>1st Semester, 2024</h2>
 <h3>Information Technology Infrastructure</h3>
 <p>ได้เรียนรู้พื้นฐานด้านเทคโนโลยีสารสนเทศ เช่น hardware, software, networks (LAN,WAN), databases, cloud computing, และ system architecture  ทำให้เข้าใจภาพรวมของระบบเทคโนโลยีที่รองรับการจัดเก็บ ประมวลผล และใช้งานข้อมูลในองค์กร</p>
+<div>
+<ul>
+  <li>
+  <p>Homework
+  <a href="https://github.com/PloyTmw/TNPDTI5/tree/main/Information%20Technology%20Infrastructure">
+    Homework
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
 <h3>Fundamentals Of Business</h3>
 <p>ได้เรียนรู้ความรู้พื้นฐานเดี่ยวกับสภาพแวดล้อมทางธุรกิจ ระบบเศรษฐกิจ มูลค่าเงิน วิเคราะห์งบการเงิน กลยุทธ์ทางธุรกิจ ซึ่งช่วยให้สามารถเข้าใจโจทย์ทางธุรกิจก่อนนำข้อมูลมาวิเคราะห์ และสามารถตีความ Insight ให้สอดคล้องกับบริบทขององค์กรได้ </p>
 <div>
