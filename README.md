@@ -67,14 +67,15 @@
 <h4>Fundamentals Of Data Science And Applied Machine Learning</h4>
 ได้เรียนรู้กระบวนการทำ Data Science ตั้งแต่การเตรียมข้อมูล การสำรวจข้อมูล การสร้างโมเดล การประเมินผลโมเดล และพื้นฐาน Machine Learning เช่น Classification และ Prediction ทำให้เข้าใจการนำข้อมูลมาใช้วิเคราะห์และพยากรณ์ผลลัพธ์ทางธุรกิจ
 <h4>Text Processing Applications</h4>
-ได้เรียนรู้การประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น การทำความสะอาดข้อความ การตัดคำ การแปลงข้อความเป็นคุณลักษณะเชิงตัวเลข และการนำข้อมูลข้อความไปวิเคราะห์หรือจำแนกประเภท
+ได้เรียนรู้อะไรใหม่ๆไม่
 <h4>Selected Topic: Computer Vision</h4>
+ได้เรียนรู้การประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น การทำความสะอาดข้อความ การตัดคำ การแปลงข้อความเป็นคุณลักษณะเชิงตัวเลข และการนำข้อมูลข้อความไปวิเคราะห์หรือจำแนกประเภท
 <div>
 <ul>
   <li>
-  <p>Link:
-  <a href="https://replit.com/@ThamonwanNuchti/SQLhomeworkbatch6?v=1#main.sql">
-    SQL_homework_batch6
+  <p>Project Group
+  <a href="https://github.com/PloyTmw/TNPDTI5/blob/main/Selected%20Topic%3A%20Computer%20Vision/Defect%20Detection%20Project.pdf">
+    Project Defect Detection
   </a>
   </p>
   </li>
