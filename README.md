@@ -1,11 +1,18 @@
-<h1>Data Technology and Innovation</h1>
+<h1>Master’s Degree Coursework & Learning Journey</h1>
+<p>Program: Data Technology and Innovation</p>
+<p>Focus Areas: Data Analysis, Business Intelligence, Data Engineering, Information Systems, and Cybersecurity</p>
+<p>
+ระหว่างการศึกษาระดับปริญญาโท ได้เรียนรู้และพัฒนาทักษะด้าน Information Systems, Data Science, Data Engineering, Business Intelligence และ Data Visualization ซึ่งช่วยให้สามารถเชื่อมโยงปัญหาทางธุรกิจกับการวิเคราะห์ข้อมูล และนำเสนอผลลัพธ์ในรูปแบบ Dashboard หรือรายงานเชิงวิเคราะห์ได้อย่างมีประสิทธิภาพ
+</p>
 
 
-
-<h3>1st Semester, 2024</h3>
-<h4>Information Technology Infrastructure</h4>
-<h4>Fundamentals Of Business</h4>
+<h2>1st Semester, 2024</h2>
+<h3>Information Technology Infrastructure</h3>
+<p>ได้เรียนรู้พื้นฐานด้านเทคโนโลยีสารสนเทศ เช่น ระบบเครือข่าย ฐานข้อมูล Cloud Computing และ System Architecture ทำให้เข้าใจภาพรวมของระบบเทคโนโลยีที่รองรับการจัดเก็บ ประมวลผล และใช้งานข้อมูลในองค์กร</p>
+<h3>Fundamentals Of Business</h3>
+<p>ได้เรียนรู้ความรู้พื้นฐานเดี่ยวกับ </p>
 <h4>Enterprise Information Systems</h4>
+ได้ศึกษาเกี่ยวกับระบบสารสนเทศระดับองค์กร เช่น ERP, CRM, SCM และการเชื่อมโยงกระบวนการทำงานระหว่างแผนก ทำให้เข้าใจการไหลของข้อมูลในองค์กร และเห็นความสำคัญของข้อมูลที่ถูกต้องต่อการตัดสินใจทางธุรกิจ
 <div>
 <ul>
   <li>
@@ -27,8 +34,11 @@
 
 <h3>2nd Semester, 2024</h3>
 <h4>Information System Analysis And Design</h4>
+ได้เรียนรู้การวิเคราะห์ความต้องการของผู้ใช้งานและการออกแบบระบบสารสนเทศ เช่น Use Case Diagram, System Sequence Diagram, ER Diagram และ Class Diagram ซึ่งช่วยให้สามารถออกแบบระบบหรือกระบวนการทำงานให้สอดคล้องกับความต้องการทางธุรกิจ
 <h4>Fundamentals Of Data Science And Applied Machine Learning</h4>
+ได้เรียนรู้กระบวนการทำ Data Science ตั้งแต่การเตรียมข้อมูล การสำรวจข้อมูล การสร้างโมเดล การประเมินผลโมเดล และพื้นฐาน Machine Learning เช่น Classification และ Prediction ทำให้เข้าใจการนำข้อมูลมาใช้วิเคราะห์และพยากรณ์ผลลัพธ์ทางธุรกิจ
 <h4>Text Processing Applications</h4>
+ได้เรียนรู้การประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น การทำความสะอาดข้อความ การตัดคำ การแปลงข้อความเป็นคุณลักษณะเชิงตัวเลข และการนำข้อมูลข้อความไปวิเคราะห์หรือจำแนกประเภท
 <h4>Selected Topic: Computer Vision</h4>
 <div>
 <ul>
@@ -44,8 +54,11 @@
 
 <h3>1st Semester, 2025</h3>
 <h4>Information And Cyber Security</h4>
+ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูลในกระบวนการวิเคราะห์และจัดการข้อมูล
 <h4>Big Data Engineering</h4>
+ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline, Distributed Processing และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark และแพลตฟอร์มข้อมูลบน Cloud ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
 <h4>Independent Study 1</h4>
+ได้ทำการศึกษาอิสระเกี่ยวกับการประยุกต์ใช้ RPA และ Workflow Automation เพื่อดึงข้อมูล งบการเงิน จัดการไฟล์ เตรียมข้อมูล และนำไปสร้าง Dashboard สำหรับการวิเคราะห์ทางการเงิน
 <div>
 <ul>
   <li>
@@ -73,9 +86,6 @@
 <ul>
 </div>
 
-
-### Statistics
-
 <h3>1st Semester, 2026</h3>
 <h4>Independent Study 2 (Status Continue) </h4>
 <div>
@@ -97,19 +107,7 @@
 <ul>
 </div>
 
-### Essential Python for Data Analyst
 
-<h3>Dashboard</h3>
-<div>
-<ul>
-  <li>
-  <p>Looker Studio
-  <a href="https://lookerstudio.google.com/s/kIpI2CAqrlQ">
-    HW_Sprint10Dashboard_Unicorn2023_Batch6
-  </p>
-  </li>
-<ul>
-</div>
 
 <div>
 <h2>
