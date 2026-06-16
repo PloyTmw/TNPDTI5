@@ -54,13 +54,6 @@
   </a>
   </p>
   </li>
-  <li>
-  <p>ID Card Parser
-  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Spreadsheet/HW_Spreadsheet_ID%20Card%20Parser.png">
-    HW_Spreadsheet_ID Card Parser
-  </a>
-  </p>
-  </li>
 <ul>
 </div>
 
@@ -106,7 +99,7 @@
 ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูลในกระบวนการวิเคราะห์และจัดการข้อมูล
 
 <h3>Big Data Engineering</h3>
-ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark, PySpark, Hive, Neo4j, docker,n8n ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
+ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Concept Data Warehouse, Data Mart, Data Lake, Data Modeling Design และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark, PySpark, Hive, Neo4j, docker,n8n ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
 <div>
 <ul>
   <li>
