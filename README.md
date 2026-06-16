@@ -101,7 +101,18 @@ Precriptive Analysis เช่น Optimization, Simulation
 <h2>1st Semester, 2025</h2>
 
 <h3>Information And Cyber Security</h3>
-ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูลในกระบวนการวิเคราะห์และจัดการข้อมูล
+ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ได้เรียนรู้การเข้ารหัสข้อมูลแบบ ASE Encryption, RSA Encryption, Digital Envelope, Digital Signature ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูล
+<div>
+<ul>
+  <li>
+  <p>Take Note
+  <a href="https://github.com/PloyTmw/TNPDTI5/tree/main/Big%20Data%20Engineering">
+    Take Note
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
 
 <h3>Big Data Engineering</h3>
 ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Concept Data Warehouse, Data Mart, Data Lake, Data Modeling Design และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark, PySpark, Hive, Neo4j, docker,n8n ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
