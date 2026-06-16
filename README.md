@@ -174,7 +174,7 @@ Precriptive Analysis เช่น Optimization, Simulation
   <li>
   <p>Link:
   <a href="https://canva.link/z7qzj0svzmdaizk">
-    HW_Nycflights2013_Analysis
+    การประยุกต์ใช้อาร์พีเอเพื่อสร้างการดึงข้อมูลอัตโนมัติ
   </a>
   </p>
   </li>
@@ -198,17 +198,7 @@ Precriptive Analysis เช่น Optimization, Simulation
 </div>
   
 <h3>Independent Study 2 (Status DROP) </h3>
-<div>
-<ul>
-  <li>
-  <p>Link:
-  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Data_Visualization/HW_DataVis_Nycflights2013.pdf">
-    HW_DataVis_Nycflights2013
-  </a>
-  </p>
-  </li>
-<ul>
-</div>
+Drop เนื่องจาก
 
 <h2>1st Semester, 2026</h2>
 
