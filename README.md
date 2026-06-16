@@ -106,7 +106,7 @@
 ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูลในกระบวนการวิเคราะห์และจัดการข้อมูล
 
 <h3>Big Data Engineering</h3>
-ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark, PySpark, Hive, Neo4j, n8n ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
+ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark, PySpark, Hive, Neo4j, docker,n8n ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
 <div>
 <ul>
   <li>
@@ -136,13 +136,13 @@
 <h2>2nd Semester, 2025</h2>
 
 <h3>Business Intelligence And Data Visualization</h3>
-ได้เรียนรู้เกี่ยวกับ BI Architecture, BI Tools, Data Warehouse, Data Modeling, Data Visualization, Data Storytelling, Power BI, DAX, Power Query ได้เรียนรู้แนวคิดด้าน Business Intelligence การออกแบบ Dashboard หลักการ Data Visualization การกำหนด KPI และการจัดทำรายงานเชิงวิเคราะห์ เพื่อสนับสนุนการตัดสินใจของผู้บริหาร
+ได้เรียนรู้เกี่ยวกับ BI Architecture, BI Tools, Data Warehouse, Data Modeling, Data Visualization, Airflow, Data Storytelling, Power BI, DAX, Power Query ได้เรียนรู้แนวคิดด้าน Business Intelligence การออกแบบ Dashboard หลักการ Data Visualization การกำหนด KPI และการจัดทำรายงานเชิงวิเคราะห์ เพื่อสนับสนุนการตัดสินใจของผู้บริหาร
 <div>
 <ul>
   <li>
-  <p>Link:
-  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Data_Visualization/HW_DataVis_Nycflights2013.pdf">
-    HW_DataVis_Nycflights2013
+  <p>Lab BI
+  <a href="https://github.com/PloyTmw/TNPDTI5/tree/main/Business%20Intelligence%20And%20Data%20Visualization">
+    Lab BI
   </a>
   </p>
   </li>
