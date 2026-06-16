@@ -97,7 +97,7 @@
 <h4>Information And Cyber Security</h4>
 ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูลในกระบวนการวิเคราะห์และจัดการข้อมูล
 <h4>Big Data Engineering</h4>
-ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline, Distributed Processing และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark และแพลตฟอร์มข้อมูลบน Cloud ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
+ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark, Hive ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
 <div>
 <ul>
   <li>
