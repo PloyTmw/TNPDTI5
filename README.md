@@ -200,6 +200,8 @@ Precriptive Analysis เช่น Optimization, Simulation
 <h3>Independent Study 2 (Status DROP) </h3>
 Drop เนื่องจากการสำรวจ Dataset หรืองบการเงินไม่เพียงพอ มีจุดซับซ้อนหลายจุด เช่น 1. แต่ละบริษัทใช้ชื่อ Sheet ไม่เหมือนกัน 2. ชื่อบัญชีแต่ละบริษัทไม่เหมือนกัน 3. โครงสร้างและตำแหน่งการจัดวางงบการเงินไม่ตรงกัน เป็นต้น ซึ่งข้อจำกัดหลายๆอย่าง ส่งผลต่อการกำหนดเงื่อนไขให้ RPA เพราะ RPA ในโปรเจ็คนี้ทำงานภายใต้ Rule-base คือต้องกำหนดเงื่อนไขให้ Bot เองทุนขั้นตอน และสิ่งที่ต้องทำเพิ่มคือการกำหนดตาราง Master data เพื่อกำหนดเลขบัญชี หมวดหมู่ ประเภทงบ เป็นต้น เพื่อเป็นการแก้ปัญหาที่ข้อมูลหรือชื่อบัญชีของแต่ละบรัษัทแตกต่างกัน
 
+<h3>ผลสอบประมวลความรู้ (Comprehensive Examination)(Status ผ่าน) </h3>
+
 <h2>1st Semester, 2026</h2>
 
 <h3>Independent Study 2 (Status Continue) </h3>
@@ -207,20 +209,3 @@ On Going...
 
 
 
-<div>
-<h2>
-  <p>
-    <img width="30" src="https://cdn-icons-png.flaticon.com/512/2454/2454229.png">
-    <img width="30" src="https://cdn-icons-png.flaticon.com/512/1961/1961418.png">
-    Badge
-    <a href="https://badgr.com/public/assertions/ygPtsH5TTTGwZ1D0xmU-zw">
-  Certified Professional Data Analyst
-  </p>
-  <p>
-    <img src="https://api.badgr.io/public/assertions/ygPtsH5TTTGwZ1D0xmU-zw/image">
-  </p>
-</h2>
-<h4>
-  Description : Data Science Bootcamp 6 | DataRockie
-</h4>
-</div>
