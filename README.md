@@ -106,7 +106,7 @@ Precriptive Analysis เช่น Optimization, Simulation
 <ul>
   <li>
   <p>Take Note
-  <a href="https://github.com/PloyTmw/TNPDTI5/tree/main/Big%20Data%20Engineering">
+  <a href="https://drive.google.com/file/d/1Uy1cfdcc72ybgZlrE3hj9nBO2ELOLH9g/view?usp=drive_link">
     Take Note
   </a>
   </p>
