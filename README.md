@@ -94,7 +94,7 @@ Precriptive Analysis เช่น Optimization, Simulation
   </li>
   <li>
   <p>Project Group FastText
-  <a href="https://replit.com/@ThamonwanNuchti/HWATMBatch6#main.py">
+  <a href="https://canva.link/xfelqaclofnj2n8">
     Fasttext Game
   </a>
   </p>
