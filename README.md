@@ -82,7 +82,18 @@ Precriptive Analysis เช่น Optimization, Simulation
 
 
 <h3>Text Processing Applications</h3>
-ได้เรียนรู้อะไรใหม่ๆไม่
+ได้เรียนรู้เรื่องการประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น text processing, tokenization, word frequency, 
+<div>
+<ul>
+  <li>
+  <p>HW_Text Classification
+  <a href="https://colab.research.google.com/drive/1H0nKUApEJlbUmn3CqjOS2Ba8irrQA-im?usp=sharing">
+    HW_Text Classification_Fake New
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
 
 <h3>Selected Topic: Computer Vision</h3>
 ได้เรียนรู้การประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น การทำความสะอาดข้อความ การตัดคำ การแปลงข้อความเป็นคุณลักษณะเชิงตัวเลข และการนำข้อมูลข้อความไปวิเคราะห์หรือจำแนกประเภท
