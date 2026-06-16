@@ -74,7 +74,12 @@
 </div>
 
 <h3>Fundamentals Of Data Science And Applied Machine Learning</h3>
-ได้เรียนรู้กระบวนการทำ Data Science ตั้งแต่การเตรียมข้อมูล การสำรวจข้อมูล การสร้างโมเดล การประเมินผลโมเดล และพื้นฐาน Machine Learning เช่น Classification และ Prediction ทำให้เข้าใจการนำข้อมูลมาใช้วิเคราะห์และพยากรณ์ผลลัพธ์ทางธุรกิจ
+ได้เรียนรู้กระบวนการทำ Data Science ตั้งแต่การเตรียมข้อมูล การสำรวจข้อมูล การสร้างโมเดล การประเมินผลโมเดล และพื้นฐาน Machine Learning เช่น , 
+Descriptive Analysis เช่น Descriptive Statistics(Mean, Median, Moded, Variance, SD, Skewness, Covariance Matrix), Cluster Analysis(Distances and Similarity, K-means Clustering, Hierachical Clustering, Density-based Spatial Clustering), Association Analysis(Frequent Item Sets, Association Rules)
+Predition Analysis เช่น Classification(K-Nearest Neibhbor, Desition Tree, Naive Bayes, Classification Assessment), Regression Analysis(Linear Regression, Polynomial Regression, Regression Assessment), Time Seriess Analysis
+Precriptive Analysis เช่น Optimization, Simulation
+ทำให้เข้าใจการนำข้อมูลมาใช้วิเคราะห์และพยากรณ์ผลลัพธ์ทางธุรกิจ
+
 
 <h3>Text Processing Applications</h3>
 ได้เรียนรู้อะไรใหม่ๆไม่
