@@ -115,7 +115,7 @@ Precriptive Analysis เช่น Optimization, Simulation
 <ul>
   <li>
   <p>Project Group
-  <a href="https://github.com/PloyTmw/TNPDTI5/blob/main/Selected%20Topic%3A%20Computer%20Vision/Defect%20Detection%20Project.pdf">
+  <a href="https://canva.link/k5kkbb55w5o2qkh">
     Project Defect Detection
   </a>
   </p>
