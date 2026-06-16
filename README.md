@@ -203,24 +203,7 @@ Drop เนื่องจาก
 <h2>1st Semester, 2026</h2>
 
 <h3>Independent Study 2 (Status Continue) </h3>
-<div>
-<ul>
-  <li>
-  <p>Link:
-  <a href="https://replit.com/@ThamonwanNuchti/H1H2#main.py">
-    HW_Rock_Paper_Scissors_Batch6
-  </a>
-  </p>
-  </li>
-  <li>
-  <p>Link:
-  <a href="https://replit.com/@ThamonwanNuchti/HWATMBatch6#main.py">
-    HW_ATM_Batch6
-  </a>
-  </p>
-  </li>
-<ul>
-</div>
+On Going...
 
 
 
