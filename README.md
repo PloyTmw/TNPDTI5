@@ -83,7 +83,7 @@ Precriptive Analysis เช่น Optimization, Simulation
 <ul>
   <li>
   <p>Lab Data Exploration and Cleaning
-  <a href="https://colab.research.google.com/drive/1vEztJNXrrxOutKOiz4J1DqI0Mfj_DLCe?usp=drive_link">
+  <a href="https://colab.research.google.com/drive/1WCq5tybc6qWDapW5ZOTwuz_s_VgtDq3_?usp=sharing">
     Lab Data Exploration and Cleaning
   </a>
   </p>
