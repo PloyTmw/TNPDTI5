@@ -101,7 +101,7 @@ Precriptive Analysis เช่น Optimization, Simulation
   </li>
   <li>
   <p>Project Group Recommendation
-  <a href="https://replit.com/@ThamonwanNuchti/HWATMBatch6#main.py">
+  <a href="https://canva.link/3tixo4oienu44do">
     Ingredient-Based Recipe Recommendation
   </a>
   </p>
