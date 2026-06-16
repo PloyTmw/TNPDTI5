@@ -92,6 +92,20 @@ Precriptive Analysis เช่น Optimization, Simulation
   </a>
   </p>
   </li>
+  <li>
+  <p>Project Group FastText
+  <a href="https://replit.com/@ThamonwanNuchti/HWATMBatch6#main.py">
+    Fasttext Game
+  </a>
+  </p>
+  </li>
+  <li>
+  <p>Project Group Recommendation
+  <a href="https://replit.com/@ThamonwanNuchti/HWATMBatch6#main.py">
+    Ingredient-Based Recipe Recommendation
+  </a>
+  </p>
+  </li>
 <ul>
 </div>
 
