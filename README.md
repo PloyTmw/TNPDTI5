@@ -43,7 +43,7 @@
 <ul>
 </div>
 
-<h4>Enterprise Information Systems</h4>
+<h3>Enterprise Information Systems</h3>
 ได้ศึกษาเกี่ยวกับระบบสารสนเทศระดับองค์กร เช่น TPS, MIS, DSS, ERP, CRM, SCM, Database, Data warehousing, SQL ทำให้เข้าใจการไหลของข้อมูลในองค์กร และเห็นความสำคัญของข้อมูลที่ถูกต้องต่อการตัดสินใจทางธุรกิจ
 <div>
 <ul>
@@ -66,7 +66,7 @@
 
 <h3>2nd Semester, 2024</h3>
 
-<h4>Information System Analysis And Design</h4>
+<h3>Information System Analysis And Design</h3>
 ได้เรียนรู้การวิเคราะห์ความต้องการของผู้ใช้งานและการออกแบบระบบสารสนเทศ เช่น Use Case Diagram, System Sequence Diagram, ER Diagram และ Class Diagram ซึ่งช่วยให้สามารถออกแบบระบบหรือกระบวนการทำงานให้สอดคล้องกับความต้องการทางธุรกิจ
 <div>
 <ul>
@@ -79,13 +79,14 @@
   </li>
 <ul>
 </div>
-<h4>Fundamentals Of Data Science And Applied Machine Learning</h4>
+
+<h3>Fundamentals Of Data Science And Applied Machine Learning</h3>
 ได้เรียนรู้กระบวนการทำ Data Science ตั้งแต่การเตรียมข้อมูล การสำรวจข้อมูล การสร้างโมเดล การประเมินผลโมเดล และพื้นฐาน Machine Learning เช่น Classification และ Prediction ทำให้เข้าใจการนำข้อมูลมาใช้วิเคราะห์และพยากรณ์ผลลัพธ์ทางธุรกิจ
 
-<h4>Text Processing Applications</h4>
+<h3>Text Processing Applications</h3>
 ได้เรียนรู้อะไรใหม่ๆไม่
 
-<h4>Selected Topic: Computer Vision</h4>
+<h3>Selected Topic: Computer Vision</h3>
 ได้เรียนรู้การประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น การทำความสะอาดข้อความ การตัดคำ การแปลงข้อความเป็นคุณลักษณะเชิงตัวเลข และการนำข้อมูลข้อความไปวิเคราะห์หรือจำแนกประเภท
 <div>
 <ul>
@@ -100,6 +101,7 @@
 </div>
 
 <h2>1st Semester, 2025</h2>
+
 <h3>Information And Cyber Security</h3>
 ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูลในกระบวนการวิเคราะห์และจัดการข้อมูล
 
@@ -116,7 +118,8 @@
   </li>
 <ul>
 </div>
-<h4>Independent Study 1</h4>
+
+<h3>Independent Study 1</h3>
 ได้ทำการศึกษาอิสระเกี่ยวกับการประยุกต์ใช้ RPA และ Workflow Automation เพื่อดึงข้อมูล งบการเงิน จัดการไฟล์ เตรียมข้อมูล และนำไปสร้าง Dashboard สำหรับการวิเคราะห์ทางการเงิน
 <div>
 <ul>
@@ -131,6 +134,7 @@
 </div>
 
 <h2>2nd Semester, 2025</h2>
+
 <h3>Business Intelligence And Data Visualization</h3>
 
 <h3>Independent Study 2 (Status DROP) </h3>
@@ -147,6 +151,7 @@
 </div>
 
 <h2>1st Semester, 2026</h2>
+
 <h3>Independent Study 2 (Status Continue) </h3>
 <div>
 <ul>
