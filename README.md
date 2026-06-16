@@ -7,6 +7,7 @@
 
 
 <h2>1st Semester, 2024</h2>
+
 <h3>Information Technology Infrastructure</h3>
 <p>ได้เรียนรู้พื้นฐานด้านเทคโนโลยีสารสนเทศ เช่น hardware, software, networks (LAN,WAN), databases, cloud computing, และ system architecture  ทำให้เข้าใจภาพรวมของระบบเทคโนโลยีที่รองรับการจัดเก็บ ประมวลผล และใช้งานข้อมูลในองค์กร</p>
 <div>
@@ -20,6 +21,7 @@
   </li>
 <ul>
 </div>
+
 <h3>Fundamentals Of Business</h3>
 <p>ได้เรียนรู้ความรู้พื้นฐานเดี่ยวกับสภาพแวดล้อมทางธุรกิจ ระบบเศรษฐกิจ มูลค่าเงิน วิเคราะห์งบการเงิน กลยุทธ์ทางธุรกิจ ซึ่งช่วยให้สามารถเข้าใจโจทย์ทางธุรกิจก่อนนำข้อมูลมาวิเคราะห์ และสามารถตีความ Insight ให้สอดคล้องกับบริบทขององค์กรได้ </p>
 <div>
@@ -40,6 +42,7 @@
   </li>
 <ul>
 </div>
+
 <h4>Enterprise Information Systems</h4>
 ได้ศึกษาเกี่ยวกับระบบสารสนเทศระดับองค์กร เช่น TPS, MIS, DSS, ERP, CRM, SCM, Database, Data warehousing, SQL ทำให้เข้าใจการไหลของข้อมูลในองค์กร และเห็นความสำคัญของข้อมูลที่ถูกต้องต่อการตัดสินใจทางธุรกิจ
 <div>
@@ -62,6 +65,7 @@
 </div>
 
 <h3>2nd Semester, 2024</h3>
+
 <h4>Information System Analysis And Design</h4>
 ได้เรียนรู้การวิเคราะห์ความต้องการของผู้ใช้งานและการออกแบบระบบสารสนเทศ เช่น Use Case Diagram, System Sequence Diagram, ER Diagram และ Class Diagram ซึ่งช่วยให้สามารถออกแบบระบบหรือกระบวนการทำงานให้สอดคล้องกับความต้องการทางธุรกิจ
 <div>
@@ -77,8 +81,10 @@
 </div>
 <h4>Fundamentals Of Data Science And Applied Machine Learning</h4>
 ได้เรียนรู้กระบวนการทำ Data Science ตั้งแต่การเตรียมข้อมูล การสำรวจข้อมูล การสร้างโมเดล การประเมินผลโมเดล และพื้นฐาน Machine Learning เช่น Classification และ Prediction ทำให้เข้าใจการนำข้อมูลมาใช้วิเคราะห์และพยากรณ์ผลลัพธ์ทางธุรกิจ
+
 <h4>Text Processing Applications</h4>
 ได้เรียนรู้อะไรใหม่ๆไม่
+
 <h4>Selected Topic: Computer Vision</h4>
 ได้เรียนรู้การประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น การทำความสะอาดข้อความ การตัดคำ การแปลงข้อความเป็นคุณลักษณะเชิงตัวเลข และการนำข้อมูลข้อความไปวิเคราะห์หรือจำแนกประเภท
 <div>
@@ -93,11 +99,12 @@
 <ul>
 </div>
 
-<h3>1st Semester, 2025</h3>
-<h4>Information And Cyber Security</h4>
+<h2>1st Semester, 2025</h2>
+<h3>Information And Cyber Security</h3>
 ได้เรียนรู้หลักการด้านความมั่นคงปลอดภัยสารสนเทศ เช่น Confidentiality, Integrity, Availability, Risk Management, Access Control และการวิเคราะห์ภัยคุกคาม ซึ่งช่วยให้เข้าใจความสำคัญของการปกป้องข้อมูลในกระบวนการวิเคราะห์และจัดการข้อมูล
-<h4>Big Data Engineering</h4>
-ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark, Hive, Neo4j, n8n ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
+
+<h3>Big Data Engineering</h3>
+ได้เรียนรู้แนวคิดด้าน Big Data Architecture, Data Pipeline และเครื่องมือสำหรับจัดการข้อมูลขนาดใหญ่ เช่น Hadoop, Spark, PySpark, Hive, Neo4j, n8n ทำให้เข้าใจการจัดการข้อมูลที่มีปริมาณมากและหลากหลายก่อนนำไปวิเคราะห์
 <div>
 <ul>
   <li>
@@ -123,9 +130,10 @@
 <ul>
 </div>
 
-<h3>2nd Semester, 2025</h3>
-<h4>Business Intelligence And Data Visualization</h4>
-<h4>Independent Study 2 (Status DROP) </h4>
+<h2>2nd Semester, 2025</h2>
+<h3>Business Intelligence And Data Visualization</h3>
+
+<h3>Independent Study 2 (Status DROP) </h3>
 <div>
 <ul>
   <li>
@@ -138,8 +146,8 @@
 <ul>
 </div>
 
-<h3>1st Semester, 2026</h3>
-<h4>Independent Study 2 (Status Continue) </h4>
+<h2>1st Semester, 2026</h2>
+<h3>Independent Study 2 (Status Continue) </h3>
 <div>
 <ul>
   <li>
