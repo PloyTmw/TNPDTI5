@@ -136,7 +136,19 @@
 <h2>2nd Semester, 2025</h2>
 
 <h3>Business Intelligence And Data Visualization</h3>
-
+ได้เรียนรู้เกี่ยวกับ BI Architecture, BI Tools, Data Warehouse, Data Modeling, Data Visualization, Data Storytelling, Power BI, DAX, Power Query ได้เรียนรู้แนวคิดด้าน Business Intelligence การออกแบบ Dashboard หลักการ Data Visualization การกำหนด KPI และการจัดทำรายงานเชิงวิเคราะห์ เพื่อสนับสนุนการตัดสินใจของผู้บริหาร
+<div>
+<ul>
+  <li>
+  <p>Link:
+  <a href="https://github.com/PloyTmw/bootcamp_projects/blob/main/Data_Visualization/HW_DataVis_Nycflights2013.pdf">
+    HW_DataVis_Nycflights2013
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
+  
 <h3>Independent Study 2 (Status DROP) </h3>
 <div>
 <ul>
