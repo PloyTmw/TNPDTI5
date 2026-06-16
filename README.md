@@ -93,7 +93,7 @@ Precriptive Analysis เช่น Optimization, Simulation
 
 
 <h3>Text Processing Applications</h3>
-ได้เรียนรู้เรื่องการประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น text processing, tokenization, word frequency, 
+ได้เรียนรู้เรื่องการประมวลผลข้อความและพื้นฐาน Natural Language Processing เช่น text processing, tokenization, word frequency, bag of words, TF-IDF, word2vec, text classification, sentiment analysis, chatbot
 <div>
 <ul>
   <li>
@@ -166,11 +166,14 @@ Precriptive Analysis เช่น Optimization, Simulation
 
 <h3>Independent Study 1</h3>
 ได้ทำการศึกษาอิสระเกี่ยวกับการประยุกต์ใช้ RPA และ Workflow Automation เพื่อดึงข้อมูล งบการเงิน จัดการไฟล์ เตรียมข้อมูล และนำไปสร้าง Dashboard สำหรับการวิเคราะห์ทางการเงิน
+หัวข้อ การประยุกต์ใช้อาร์พีเอเพื่อสร้างการดึงข้อมูลอัตโนมัติ : กรณีศึกษาจากข้อมูลของ ก.ล.ต. APPLICATION OF RPA FOR AUTOMATED DATA EXTRACTION: A CASE STUDY ON SEC DATA
+วัตถุประสงค์ของการศึกษา 1. เพื่อศึกษาและประยุกต์ใช้ RPA ในการสร้างระบบอัตโนมัติเพื่อดาวน์โหลดงบการเงินจากเว็บไซต์ ก.ล.ต. โดยอัตโนมัติ 2. เพื่อพัฒนา Workflow ในการเชื่อมโยงจัดการข้อมูลงบการเงิน เพื่อแสดงผลการวิเคราะห์งบการเงิน 3. เพื่อประเมินประสิทธิภาพการใช้งาน RPA และ Workflow automation ในด้านความเร็ว ความง่าย ความถูกต้อง ความยืดหยุ่นและต้นทุน
+
 <div>
 <ul>
   <li>
   <p>Link:
-  <a href="https://datalore.jetbrains.com/notebook/Ud7EvYlFbhh1rPIVYSgD7Z/YmrL0lHl3h62UJuyuvOVeH/">
+  <a href="https://canva.link/z7qzj0svzmdaizk">
     HW_Nycflights2013_Analysis
   </a>
   </p>
