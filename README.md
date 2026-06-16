@@ -79,6 +79,17 @@ Descriptive Analysis เช่น Descriptive Statistics(Mean, Median, Moded, Va
 Predition Analysis เช่น Classification(K-Nearest Neibhbor, Desition Tree, Naive Bayes, Classification Assessment), Regression Analysis(Linear Regression, Polynomial Regression, Regression Assessment), Time Seriess Analysis
 Precriptive Analysis เช่น Optimization, Simulation
 ทำให้เข้าใจการนำข้อมูลมาใช้วิเคราะห์และพยากรณ์ผลลัพธ์ทางธุรกิจ
+<div>
+<ul>
+  <li>
+  <p>Lab Data Exploration and Cleaning
+  <a href="https://colab.research.google.com/drive/1vEztJNXrrxOutKOiz4J1DqI0Mfj_DLCe?usp=drive_link">
+    Lab Data Exploration and Cleaning
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
 
 
 <h3>Text Processing Applications</h3>
